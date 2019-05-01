@@ -30,8 +30,7 @@ end
 
 def square_root(num)
   num1 = 81
-  num2 = 2
-  return num1 ** num2
+  return Math.sqrt(num1)
 end
 
 def order_of_operation(num1, num2, num3, num4)
